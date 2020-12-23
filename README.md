@@ -1,6 +1,6 @@
 ### About me
 
-Hey there! My name is Oliver (he/him) and I'm a Computer Science student at URI. I'm 19 and I love low-level programming, math, and all things parsing. This page hosts my personal and school projects.
+Hey there! My name is Oliver (he/him). I'm 19 and studying computer science.
 
 
 [Linkedin](https://www.linkedin.com/in/oliver-mclaughlin-35689219a/)
