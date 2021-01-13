@@ -1,6 +1,6 @@
 ### About me
 
-Hey there! My name is Oliver (he/him). I'm 19 and studying computer science.
+Hey there! My name is Oliver (he/him).
 
 [Linkedin](https://www.linkedin.com/in/oliver-mclaughlin-35689219a/)
 
